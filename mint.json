@@ -17,7 +17,7 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
+      "name": "Suporte",
       "url": "mailto:daniel@alertpix.live"
     }
   ],
@@ -26,11 +26,6 @@
     "url": "https://alertpix.live"
   },
   "anchors": [
-    {
-      "name": "Documentacao",
-      "icon": "book-open-cover",
-      "url": "https://alertpix.live"
-    },
     {
       "name": "Comunidade",
       "icon": "discord",
