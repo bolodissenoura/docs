@@ -7,45 +7,39 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#6200EE",
+    "light": "#7A1DFF",
+    "dark": "#6200EE",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#6200EE",
+      "to": "#7A1DFF"
     }
   },
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:daniel@alertpix.live"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://alertpix.live"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Documentacao",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://alertpix.live"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "Comunidade",
+      "icon": "discord",
+      "url": "https://alertpix.live"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Twitter",
+      "icon": "twitter",
+      "url": "https://x.com/alertpix_live"
     }
   ],
   "navigation": [
